@@ -73,16 +73,16 @@ export const routeTree = rootRoute
 
 /* ROUTE_MANIFEST_START
 {
-	"routes": {
-		"__root__": {
-			"filePath": "__root.tsx",
-			"children": [
-				"/"
-			]
-		},
-		"/": {
-			"filePath": "index.tsx"
-		}
+  "routes": {
+	"__root__": {
+	  "filePath": "__root.tsx",
+	  "children": [
+		"/"
+	  ]
+	},
+	"/": {
+	  "filePath": "index.tsx"
 	}
+  }
 }
 ROUTE_MANIFEST_END */
